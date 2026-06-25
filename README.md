@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Twinkle Mahato</h1>
 <h3 align="center">MERN Stack Developer | Software Engineering Student</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-</p>
 
 ---
 

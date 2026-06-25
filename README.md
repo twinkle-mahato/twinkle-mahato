@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/github/followers/twinkle-mahato?label=Followers&style=social" alt="Followers" />
 </p>
 
 ---
@@ -45,6 +44,12 @@ I am a passionate **MERN Stack Developer** focused on building clean, performant
 
 🔹 **devTinder**
 > A full-stack networking web application tailored specifically for developers. Built using **Node.js, Express, and MongoDB**, featuring secure **JWT authentication**, rigid **Mongoose schema validation**, and a slick dynamic UI built with **React** and **Tailwind CSS / DaisyUI**.
+
+🔹 **Netflix GPT**
+> A movie exploration platform powered by AI suggestions. Built with **React** and **Tailwind CSS**, integrated with **TMDB APIs** to fetch real-time movie listings, and features an intelligent search feature using **OpenAI API / GPT** models for personalized recommendations.
+
+🔹 **YouTube Clone**
+> A high-performance video streaming frontend application built to handle high-frequency interactions. Implemented efficient search bar **Debouncing** and API response **Caching** to reduce network load, along with an optimized **Live Chat simulator** built on top of an infinite scroll queue.
 
 🔹 **Namaste Food**
 > A responsive food ordering platform focusing on deep frontend optimization. Implemented smooth client-side routing and increased app performance via **code-splitting and chunking strategies** in **React.js**.

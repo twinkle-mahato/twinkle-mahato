@@ -68,7 +68,7 @@ I am a passionate **MERN Stack Developer** focused on building clean, performant
   <a href="mailto:twinklemahato8670@gmail.com">
     <img src="https://img.shields.io/badge/Email-twinklemahato8670@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://in/twinkle-mahato-4096463a7" target="_blank">
+  <a href="https://www.linkedin.com/in/twinkle-mahato-4096463a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
